@@ -1,0 +1,46 @@
+﻿@page
+@using System.Web
+@using Microsoft.AspNetCore.Http.Extensions
+@model IndexModel
+
+<div class="container-fluid d-none d-lg-block bg-light m-0 border-bottom border-top">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb bg-light m-0">
+                        <li class="breadcrumb-item">Index</li>
+                        <li class="breadcrumb-item active">Login</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container d-flex flex-column">
+    <div class="d-flex flex-column flex-md-row justify-content-center flex-md-row-reverse mt-4 mb-4">
+
+        <form class="col-12 col-lg-4 col-md-6 bg-white shadow border rounded p-5" method="post" action="" enctype="multipart/form-data">
+            <p>Acá armar el login. Imitar el siguiente: <a href="https://es.snhu.edu/mi-snhu" target="_blank">https://es.snhu.edu/mi-snhu</a></p>
+            <br />
+            <p>Crear una página que simule ir al servidor y volver con datos, sin refrescar la página, somo si fuera una api. Solo que no vamos a ir a ningún server.</p>
+            <br />
+            <p>Loguear si el email es "test@test.com" y la clave "123456789". De cualquier otra manera, mostrar login inválido.</p>
+            <br />
+            <p>
+                Validar que el correo electrónico ingresado sea correcto, del lado del servidor. Es decir, enviar siempre los datos a la api y que devuelva una respuesta:
+                <ul>
+                    <li>"invalid email"</li>
+                    <li>"invalid login"</li>
+                    <li>"ok" --> y hacer el redirect a una página de bienvenida, bien siemple.</li>
+                </ul>
+                No validar nada del lado del cliente, por ejemplo con javascript.
+            </p>
+        </form>
+
+        <div class="d-flex flex-column justify-content-end col-md-6 col-lg-8 text-white mi-admin rounded border">
+            <h1 class="display-5 p-5 m-0 align-items-end">Login</h1>
+        </div>
+    </div>
+</div>

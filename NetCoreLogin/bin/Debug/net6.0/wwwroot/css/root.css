@@ -1,0 +1,190 @@
+/* lato-300 - latin */
+@font-face {
+    font-family: 'Lato';
+    font-display: auto;
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/lato-v22-latin-300.eot'); /* IE9 Compat Modes */
+    src: local(''), url('../fonts/lato-v22-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/lato-v22-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/lato-v22-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/lato-v22-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/lato-v22-latin-300.svg#Lato') format('svg'); /* Legacy iOS */
+}
+/* lato-300italic - latin */
+@font-face {
+    font-family: 'Lato';
+    font-display: auto;
+    font-style: italic;
+    font-weight: 300;
+    src: url('../fonts/lato-v22-latin-300italic.eot'); /* IE9 Compat Modes */
+    src: local(''), url('../fonts/lato-v22-latin-300italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/lato-v22-latin-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/lato-v22-latin-300italic.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/lato-v22-latin-300italic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/lato-v22-latin-300italic.svg#Lato') format('svg'); /* Legacy iOS */
+}
+/* lato-regular - latin */
+@font-face {
+    font-family: 'Lato';
+    font-display: auto;
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/lato-v22-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''), url('../fonts/lato-v22-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    /* url('../fonts/lato-v22-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    /* url('../fonts/lato-v22-latin-regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/lato-v22-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/lato-v22-latin-regular.svg#Lato') format('svg'); /* Legacy iOS */
+}
+/* lato-italic - latin */
+@font-face {
+    font-family: 'Lato';
+    font-display: auto;
+    font-style: italic;
+    font-weight: 400;
+    src: url('../fonts/lato-v22-latin-italic.eot'); /* IE9 Compat Modes */
+    src: local(''), url('../fonts/lato-v22-latin-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/lato-v22-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/lato-v22-latin-italic.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/lato-v22-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/lato-v22-latin-italic.svg#Lato') format('svg'); /* Legacy iOS */
+}
+/* lato-700 - latin */
+@font-face {
+    font-family: 'Lato';
+    font-display: auto;
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/lato-v22-latin-700.eot'); /* IE9 Compat Modes */
+    src: local(''), url('../fonts/lato-v22-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    /* url('../fonts/lato-v22-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    /* url('../fonts/lato-v22-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/lato-v22-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/lato-v22-latin-700.svg#Lato') format('svg'); /* Legacy iOS */
+}
+/* lato-700italic - latin */
+@font-face {
+    font-family: 'Lato';
+    font-display: auto;
+    font-style: italic;
+    font-weight: 700;
+    src: url('../fonts/lato-v22-latin-700italic.eot'); /* IE9 Compat Modes */
+    src: local(''), url('../fonts/lato-v22-latin-700italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/lato-v22-latin-700italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/lato-v22-latin-700italic.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/lato-v22-latin-700italic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/lato-v22-latin-700italic.svg#Lato') format('svg'); /* Legacy iOS */
+}
+/* lato-900 - latin */
+@font-face {
+    font-family: 'Lato';
+    font-display: auto;
+    font-style: normal;
+    font-weight: 900;
+    src: url('../fonts/lato-v22-latin-900.eot'); /* IE9 Compat Modes */
+    src: local(''), url('../fonts/lato-v22-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    /* url('../fonts/lato-v22-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    /* url('../fonts/lato-v22-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/lato-v22-latin-900.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/lato-v22-latin-900.svg#Lato') format('svg'); /* Legacy iOS */
+}
+/* lato-900italic - latin */
+@font-face {
+    font-family: 'Lato';
+    font-display: auto;
+    font-style: italic;
+    font-weight: 900;
+    src: url('../fonts/lato-v22-latin-900italic.eot'); /* IE9 Compat Modes */
+    src: local(''), url('../fonts/lato-v22-latin-900italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/lato-v22-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/lato-v22-latin-900italic.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/lato-v22-latin-900italic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/lato-v22-latin-900italic.svg#Lato') format('svg'); /* Legacy iOS */
+}
+
+:root {
+    /*OLD VARIABLES FOR DELETE*/
+    --bs-yellow: #ffb500 !important;
+    --bs-primary-two: #c0bc00 !important;
+    --bs-primary-tree: #4fad2f !important;
+    --bs-primary-blue: #002857 !important;
+    /*VARIABLE COLORS*/
+    --bs-primary: #0E385E !important;
+    --bs-primary-rgb: 14,56,94 !important;
+    --bs-primary-80: #1F496F !important;
+    --bs-primary-60: #2F5A7F !important;
+    --bs-primary-40: #3F6B8F !important;
+    --bs-primary-dark: #0D233A !important;
+    --bs-secondary: #FBB03B !important;
+    --bs-secondary-rgb: 251,176,59 !important;
+    --bs-secondary-80: #FCC14C !important;
+    --bs-secondary-60: #FDD25D !important;
+    --bs-secondary-40: #FEE36E !important;
+    --bs-secondary-dark: #FBB03B !important;
+    --bs-white: #fff !important;
+    --bs-light: #e0e0e0 !important;
+    --bs-black: #333 !important;
+    --bs-black-rgb: 51,51,51 !important;
+    /*MASTER FONTS*/
+    --bs-body-font-family: 'Lato', 'sans-serif' !important;
+    --bs-font-sans-serif: 'Lato', 'sans-serif' !important;
+    /*WEIGHTS*/
+    --bs-font-weight-200: 300;
+    --bs-font-weight-400: 400;
+    --bs-font-weight-600: 700;
+    --bs-font-weight-800: 900;
+    /*FONT SIZES*/
+    --bs-h1-display: 6rem;
+    --bs-h1-display-2: 5rem;
+    --bs-h1-display-3: 4rem;
+    --bs-h1-display-4: 3rem;
+    --bs-h1-display-5: 2rem;
+    --bs-nav-buttons: 1.25rem;
+    /*SHADOWS*/
+    --bs-shadow-primary: 0px 2px 5px var(--bs-primary-60), 0px 4px 10px var(--bs-primary-60), 0px 8px 25px var(--bs-primary-60);
+    --bs-shadow-primary-hover: 0px 4px 10px var(--bs-primary-60), 0px 8px 20px var(--bs-primary-60), 0px 16px 50px var(--bs-primary-60);
+    --bs-shadow-secondary: 0px 2px 5px var(--bs-secondary-60), 0px 4px 10px var(--bs-secondary-60), 0px 8px 25px var(--bs-secondary-60);
+    --bs-text-shadow: 0px 0px 10px var(--bs-black), 0px 0px 4px var(--bs-black);
+    --bs-text-shadow-volume: 1px 1px 0px var(--primary-dark);
+    --bs-large-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
+    --bs-small-shadow: 0 .125rem .25rem rgba(0,0,0,.075) !important;
+    /*GLOWS*/
+    --bs-glow-primary: 0px 0px 10px var(--bs-primary);
+}
+
+/*AÑADE COLOR DE FONDO Y TEXTO AL TITLE*/
+.bg-personalized {
+    background-color: var(--bs-primary-dark);
+}
+
+.text-personalized {
+    color: var(--bs-white);
+}
+
+/*CUSTOMIZA BOTON DE ACCIONESS*/
+.btn-custom {
+    background-color: var(--bs-secondary);
+    color: var(--bs-primary-dark) !important;
+    font-weight: var(--bs-font-weight-600);
+}
+
+    .btn-custom:hover {
+        background: var(--bs-secondary-light);
+    }
+
+/*CUSTOMIZA ACCORDEONS DE ENLACES, FAQS*/
+.shape-accordion {
+}
+
+.accordion-button {
+}
+
+    .accordion-button:hover {
+    }
+
+    .accordion-button:active {
+    }
+
+    .accordion-button:focus {
+    }

@@ -1,0 +1,601 @@
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.csproj.AssemblyReference.cache
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.AssemblyInfoInputs.cache
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.AssemblyInfo.cs
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.csproj.CoreCompileInputs.cache
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.MvcApplicationPartsAssemblyInfo.cache
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.RazorAssemblyInfo.cache
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.RazorAssemblyInfo.cs
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\bootstrap.min.css
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\bootstrap.min.css.map
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\datepicker.min.css
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\intlTelInput.min.css
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\jquery.fileupload.min.css
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\bootstrap.bundle.min.js
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\bootstrap.bundle.min.js.map
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\datepicker.min.js
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\intlTelInput.min.js
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery.fileupload.min.js
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery.ui.widget.js
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery.validate.hide.min.js
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery.validate.min.js
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery-3.6.0.min.js
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery-ui.min.js
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery-ui-timepicker-addon.min.js
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.staticwebassets.runtime.json
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.exe
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.deps.json
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.runtimeconfig.json
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.dll
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.pdb
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\staticwebassets.build.json
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\staticwebassets.development.json
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\scopedcss\bundle\NetCoreLogin.styles.css
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\scopedcss\projectbundle\NetCoreLogin.bundle.scp.css
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.csproj.CopyComplete
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.dll
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\refint\NetCoreLogin.dll
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.pdb
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.genruntimeconfig.cache
+D:\gits\netcorelogin\NetCoreLogin\obj\Debug\net6.0\ref\NetCoreLogin.dll
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\styles.css
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\styles.min.css
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\root.css
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\root.min.css
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100.eot
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100.svg
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100.ttf
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100italic.eot
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100italic.svg
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100italic.ttf
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300.eot
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300.svg
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300.ttf
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300italic.eot
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300italic.svg
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300italic.woff2
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700.eot
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700.svg
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700.ttf
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.eot
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.svg
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.ttf
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.woff
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.woff2
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900.eot
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900.svg
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900.ttf
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900italic.eot
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900italic.svg
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900italic.ttf
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.eot
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.svg
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.ttf
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.woff
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.woff2
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-regular.eot
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-regular.svg
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-regular.ttf
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Bold.woff
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Bold.woff2
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Light.woff
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Light.woff2
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Medium.woff
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Medium.woff2
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\images\favicon.ico
+D:\gits\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\images\logo.svg
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\bootstrap.min.css
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\bootstrap.min.css.map
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\datepicker.min.css
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\intlTelInput.min.css
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\jquery.fileupload.min.css
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\root.css
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\root.min.css
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\styles.css
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\styles.min.css
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100.eot
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100.svg
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100.ttf
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100italic.eot
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100italic.svg
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100italic.ttf
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300.eot
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300.svg
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300.ttf
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300italic.eot
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300italic.svg
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300italic.woff2
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700.eot
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700.svg
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700.ttf
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.eot
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.svg
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.ttf
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.woff
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.woff2
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900.eot
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900.svg
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900.ttf
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900italic.eot
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900italic.svg
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900italic.ttf
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.eot
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.svg
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.ttf
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.woff
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.woff2
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-regular.eot
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-regular.svg
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-regular.ttf
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Bold.woff
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Bold.woff2
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Light.woff
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Light.woff2
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Medium.woff
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Medium.woff2
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\images\favicon.ico
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\images\logo.svg
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\bootstrap.bundle.min.js
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\bootstrap.bundle.min.js.map
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\datepicker.min.js
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\intlTelInput.min.js
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery.fileupload.min.js
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery.ui.widget.js
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery.validate.hide.min.js
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery.validate.min.js
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery-3.6.0.min.js
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery-ui.min.js
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery-ui-timepicker-addon.min.js
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.staticwebassets.runtime.json
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.exe
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.deps.json
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.runtimeconfig.json
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.dll
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.pdb
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.AssemblyInfo.cs
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.RazorAssemblyInfo.cache
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.RazorAssemblyInfo.cs
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\staticwebassets\msbuild.NetCoreLogin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\staticwebassets\msbuild.build.NetCoreLogin.props
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NetCoreLogin.props
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NetCoreLogin.props
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\scopedcss\bundle\NetCoreLogin.styles.css
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\scopedcss\projectbundle\NetCoreLogin.bundle.scp.css
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.csproj.CopyComplete
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.dll
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\refint\NetCoreLogin.dll
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.pdb
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.genruntimeconfig.cache
+C:\Users\Nico\Desktop\netcorelogin\netcorelogin\NetCoreLogin\obj\Debug\net6.0\ref\NetCoreLogin.dll
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\bootstrap.min.css
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\bootstrap.min.css.map
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\datepicker.min.css
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\intlTelInput.min.css
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\jquery.fileupload.min.css
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\root.css
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\root.min.css
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\styles.css
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\styles.min.css
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100.eot
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100.svg
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100.ttf
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100italic.eot
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100italic.svg
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100italic.ttf
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300.eot
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300.svg
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300.ttf
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300italic.eot
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300italic.svg
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300italic.woff2
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700.eot
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700.svg
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700.ttf
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.eot
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.svg
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.ttf
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.woff
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.woff2
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900.eot
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900.svg
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900.ttf
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900italic.eot
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900italic.svg
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900italic.ttf
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.eot
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.svg
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.ttf
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.woff
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.woff2
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-regular.eot
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-regular.svg
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-regular.ttf
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Bold.woff
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Bold.woff2
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Light.woff
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Light.woff2
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Medium.woff
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Medium.woff2
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\images\favicon.ico
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\images\logo.svg
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\bootstrap.bundle.min.js
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\bootstrap.bundle.min.js.map
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\datepicker.min.js
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\intlTelInput.min.js
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery.fileupload.min.js
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery.ui.widget.js
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery.validate.hide.min.js
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery.validate.min.js
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery-3.6.0.min.js
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery-ui.min.js
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery-ui-timepicker-addon.min.js
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.staticwebassets.runtime.json
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.exe
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.deps.json
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.runtimeconfig.json
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.dll
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.pdb
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.csproj.AssemblyReference.cache
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.AssemblyInfoInputs.cache
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.AssemblyInfo.cs
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.RazorAssemblyInfo.cache
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.RazorAssemblyInfo.cs
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\staticwebassets\msbuild.NetCoreLogin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\staticwebassets\msbuild.build.NetCoreLogin.props
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NetCoreLogin.props
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NetCoreLogin.props
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\scopedcss\bundle\NetCoreLogin.styles.css
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\scopedcss\projectbundle\NetCoreLogin.bundle.scp.css
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.csproj.CopyComplete
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.dll
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\refint\NetCoreLogin.dll
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.pdb
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.genruntimeconfig.cache
+C:\Users\Nico\Downloads\netcorelogin v2\netcorelogin v2\NetCoreLogin\obj\Debug\net6.0\ref\NetCoreLogin.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\bootstrap.min.css
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\bootstrap.min.css.map
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\datepicker.min.css
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\intlTelInput.min.css
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\jquery.fileupload.min.css
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\root.css
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\root.min.css
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\styles.css
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\css\styles.min.css
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100.eot
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100.svg
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100.ttf
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100italic.eot
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100italic.svg
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-100italic.ttf
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300.eot
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300.svg
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300.ttf
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300italic.eot
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300italic.svg
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-300italic.woff2
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700.eot
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700.svg
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700.ttf
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.eot
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.svg
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.ttf
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.woff
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-700italic.woff2
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900.eot
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900.svg
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900.ttf
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900italic.eot
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900italic.svg
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-900italic.ttf
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.eot
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.svg
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.ttf
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.woff
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-italic.woff2
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-regular.eot
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-regular.svg
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\lato-v22-latin-regular.ttf
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Bold.woff
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Bold.woff2
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Light.woff
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Light.woff2
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Medium.woff
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\fonts\Roboto-Medium.woff2
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\images\favicon.ico
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\images\logo.svg
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\bootstrap.bundle.min.js
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\bootstrap.bundle.min.js.map
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\datepicker.min.js
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\intlTelInput.min.js
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery.fileupload.min.js
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery.ui.widget.js
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery.validate.hide.min.js
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery.validate.min.js
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery-3.6.0.min.js
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery-ui.min.js
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\wwwroot\js\jquery-ui-timepicker-addon.min.js
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.staticwebassets.runtime.json
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.exe
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.deps.json
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.runtimeconfig.json
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\NetCoreLogin.pdb
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.csproj.AssemblyReference.cache
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.AssemblyInfoInputs.cache
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.AssemblyInfo.cs
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.csproj.CoreCompileInputs.cache
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.MvcApplicationPartsAssemblyInfo.cache
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.RazorAssemblyInfo.cache
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.RazorAssemblyInfo.cs
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\staticwebassets\msbuild.NetCoreLogin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\staticwebassets\msbuild.build.NetCoreLogin.props
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NetCoreLogin.props
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NetCoreLogin.props
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\staticwebassets.build.json
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\staticwebassets.development.json
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\scopedcss\bundle\NetCoreLogin.styles.css
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\scopedcss\projectbundle\NetCoreLogin.bundle.scp.css
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.csproj.CopyComplete
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\refint\NetCoreLogin.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.pdb
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\NetCoreLogin.genruntimeconfig.cache
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\obj\Debug\net6.0\ref\NetCoreLogin.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Humanizer.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\MessagePack.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\NuGet.Common.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Varios\F\Start-University\netcorelogin v3\NetCoreLogin\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll

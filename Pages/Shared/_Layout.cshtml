@@ -1,0 +1,51 @@
+﻿@using Microsoft.AspNetCore.Http;
+
+<!doctype html>
+<html lang="es">
+<head runat="server">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <title>Login</title>
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="/css/styles.min.css" />
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/intltelinput.min.css" />
+    <link rel="stylesheet" href="/css/jquery.fileupload.min.css" />
+    <link rel="stylesheet" href="/css/root.min.css" />
+    <script type="text/javascript" src="/js/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.ui.widget.js"></script>
+    <script type="text/javascript" src="/js/intltelinput.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.fileupload.min.js"></script>
+</head>
+<body>
+
+    <header>
+        <!--TOP HEADER-->
+        <div class="container header-top">
+            <div class="d-flex flex-row justify-content-center justify-content-lg-start align-items-center py-2">
+                <a class="navbar-brand p-2" href="/">
+                    <img src="/images/logo.svg" style="max-width:228px;" height="80" class="d-inline-block align-top" alt="Logo" />
+                </a>
+            </div>
+        </div>
+        <!--END TOP HEADER-->
+    </header>
+
+    @RenderBody()
+
+    <!--FOOTER-->
+    <footer class="p-0 border-top">
+        <!--FOOTER BOTTOM-->
+        <div class="container-fluid bg-primary-dark">
+            <div class="container d-flex flex-column flex-xl-row text-white pt-3 pb-3">
+                <div class="col-12 col-xl-6 d-flex justify-content-start"></div>
+                <div class="col-12 col-xl-6 d-flex flex-xl-row flex-column justify-content-center justify-content-xl-end">Copyright ® All rights reserved.</div>
+            </div>
+        </div>
+        <!--END FOOTER BOTTOM-->
+    </footer>
+    <!--END FOOTER-->
+    @await RenderSectionAsync("FooterContent", required: false)
+</body>
+</html>

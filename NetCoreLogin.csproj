@@ -1,0 +1,69 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+  	  <None Include="wwwroot\*" />
+  </ItemGroup>
+
+  <ItemGroup>
+	  <Content Update="wwwroot\**\*.*">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+	  <Content Update="wwwroot\**\**\*.*">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </Content>
+  </ItemGroup>
+	
+  <ItemGroup>
+  	  <Content Include="assets\**\*.*">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="bundleconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\fonts\lato-v22-latin-100.svg" />
+    <None Include="wwwroot\fonts\lato-v22-latin-100italic.svg" />
+    <None Include="wwwroot\fonts\lato-v22-latin-300.svg" />
+    <None Include="wwwroot\fonts\lato-v22-latin-300italic.svg" />
+    <None Include="wwwroot\fonts\lato-v22-latin-300italic.woff2" />
+    <None Include="wwwroot\fonts\lato-v22-latin-700.svg" />
+    <None Include="wwwroot\fonts\lato-v22-latin-700italic.svg" />
+    <None Include="wwwroot\fonts\lato-v22-latin-700italic.woff2" />
+    <None Include="wwwroot\fonts\lato-v22-latin-900.svg" />
+    <None Include="wwwroot\fonts\lato-v22-latin-900italic.svg" />
+    <None Include="wwwroot\fonts\lato-v22-latin-italic.svg" />
+    <None Include="wwwroot\fonts\lato-v22-latin-italic.woff2" />
+    <None Include="wwwroot\fonts\lato-v22-latin-regular.svg" />
+    <None Include="wwwroot\fonts\Roboto-Bold.woff2" />
+    <None Include="wwwroot\fonts\Roboto-Light.woff2" />
+    <None Include="wwwroot\fonts\Roboto-Medium.woff2" />
+    <None Include="wwwroot\js\datepicker.min.js" />
+    <None Include="wwwroot\js\intlTelInput.min.js" />
+    <None Include="wwwroot\js\jquery-3.6.0.min.js" />
+    <None Include="wwwroot\js\jquery-ui-timepicker-addon.min.js" />
+    <None Include="wwwroot\js\jquery-ui.min.js" />
+    <None Include="wwwroot\js\jquery.fileupload.min.js" />
+    <None Include="wwwroot\js\jquery.ui.widget.js" />
+    <None Include="wwwroot\js\jquery.validate.hide.min.js" />
+    <None Include="wwwroot\js\jquery.validate.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.9" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="7.0.0" />
+  </ItemGroup>
+
+</Project>

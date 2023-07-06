@@ -1,0 +1,63 @@
+﻿#Payments hr {
+    margin-top: 0.5rem;
+}
+
+#Payments label {
+    width: 100%;
+    font-size: 13px;
+    line-height: 18px;
+}
+
+#Payments #token_form {
+    padding-top: 0.25rem;
+}
+
+#Payments #payments_td {
+    padding-bottom: 0.50rem;
+}
+
+#Payments .tkn_div {
+    position: relative;
+    overflow: hidden;
+}
+
+    #Payments .tkn_div .tkn_div_img,
+    #Payments .tkn_div .tkn_div_txt,
+    #Payments .tkn_div .tkn_div_btn,
+    #Payments .tkn_div .tkn_div_ext {
+        float: left;
+        height: 50px;
+    }
+
+    #Payments .tkn_div .tkn_div_img {
+        width: 75px;
+    }
+
+    #Payments .tkn_div .tkn_div_txt {
+        width: 150px;
+    }
+
+    #Payments .tkn_div .tkn_div_btn {
+        width: 120px;
+    }
+
+    #Payments .tkn_div .tkn_div_ext {
+        width: 120px;
+    }
+
+    #Payments .tkn_div .tkn_div_img img {
+        width: 60px;
+        padding: 0 3px;
+        border-radius: 5px;
+        -o-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -webkit-border-radius: 5px;
+        border: 2px solid #dee2e6;
+    }
+
+    #Payments .tkn_div .tkn_div_txt label,
+    #Payments .tkn_div .tkn_div_ext label,
+    #Payments .tkn_div .tkn_div_btn button {
+        margin: 0;
+    }

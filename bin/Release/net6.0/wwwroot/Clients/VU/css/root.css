@@ -1,0 +1,115 @@
+/*---------------------------*/
+/*                          */
+/*         VU ROOT         */
+/*                        */
+/*-----------------------*/
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&family=Oswald:wght@200;300;400;500;600&display=swap');
+
+:root {
+    /*OLD VARIABLES FOR DELETE*/
+    --bs-yellow: #ffb500 !important;
+    --bs-primary-two: #c0bc00 !important;
+    --bs-primary-tree: #4fad2f !important;
+    --bs-primary-blue: #002857 !important;
+    /*VARIABLE COLORS*/
+    --bs-primary: #0A3370 !important;
+    --bs-primary-rgb: 10,51,112 !important;
+    --bs-primary-80: #0A337080 !important;
+    --bs-primary-60: #0A337060 !important;
+    --bs-primary-40: #0A337040 !important;
+    --bs-primary-dark: #00244E !important;
+    --bs-primary-transparent: #0a3370d6 !important;
+    --bs-secondary: #FDB913 !important;
+    --bs-secondary-rgb: 253,185,19 !important;
+    --bs-secondary-80: #FDB91380 !important;
+    --bs-secondary-60: #FDB91360 !important;
+    --bs-secondary-40: #FDB91340 !important;
+    --bs-secondary-light: #FFD36C !important;
+    --bs-secondary-dark: #0087B8 !important;
+    --bs-tertiary: #2066a2 !important;
+    --bs-tertiary-dark: #1A5282 !important;
+    --bs-white: #fff !important;
+    --bs-white-transparent: #ffffff20 !important;
+    --bs-white-transparent-80: #ffffff80 !important;
+    --bs-black: #333 !important;
+    --bs-black-transparent-10: #00000010 !important;
+    --bs-black-transparent-20: #00000020 !important;
+    --bs-black-transparent-30: #00000030 !important;
+    --bs-black-transparent-90: #00000090 !important;
+    --bs-black-rgb: 51,51,51 !important;
+    /*MASTER FONTS*/
+    --bs-body-font-family: 'Oswald', sans-serif !important;
+    --bs-font-sans-serif: 'Open Sans', sans-serif !important;
+    /*WEIGHTS*/
+    --bs-font-weight-200: 300;
+    --bs-font-weight-400: 400;
+    --bs-font-weight-600: 600;
+    --bs-font-weight-800: 800;
+    /*FONT SIZES*/
+    --bs-h1-display: 6rem;
+    --bs-h1-display-2: 5rem;
+    --bs-h1-display-3: 4rem;
+    --bs-h1-display-4: 3rem;
+    --bs-h1-display-5: 2rem;
+    --bs-nav-buttons: 1.25rem;
+    /*SHADOWS*/
+    /*--bs-shadow-primary: 0px 2px 5px var(--bs-primary-60), 0px 4px 10px var(--bs-primary-60), 0px 8px 25px var(--bs-primary-60);
+    --bs-shadow-primary-hover: 0px 4px 10px var(--bs-primary-60), 0px 8px 20px var(--bs-primary-60), 0px 16px 50px var(--bs-primary-60);
+    --bs-shadow-secondary: 0px 2px 5px var(--bs-secondary-60), 0px 4px 10px var(--bs-secondary-60), 0px 8px 25px var(--bs-secondary-60);
+    --bs-text-shadow: 0px 0px 10px var(--bs-black-transparent-30), 0px 0px 4px var(--bs-black-transparent-30);
+    --bs-text-shadow-volume: 1px 1px 0px var(--primary-dark);
+    --bs-large-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
+    --bs-small-shadow: 0 .125rem .25rem rgba(0,0,0,.075) !important;*/
+    /*GLOWS*/
+    --bs-glow-primary: 0px 0px 10px var(--bs-primary);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-weight: var(--bs-body-font-family) !important;
+}
+
+/*PERSONALIZA EL BACKGROUND*/
+.mi-admin {
+    background-image: url(../img/studentportalVU.webp) !important;
+}
+
+/*PERSONALIZA EL COLOR DE HEADER*/
+header {
+    background: var(--bs-primary) !important;
+}
+
+.header-top a {
+    border-radius: 0px !important;
+}
+
+/*PERSONALIZA EL BOTON PRIMARIO*/
+.btn-primary {
+    background-color: var(--bs-tertiary) !important;
+    border: 1px solid var(--bs-primary) !important;
+}
+
+.btn-primary:hover {
+    background-color: var(--bs-tertiary-dark) !important;
+}
+
+.border-secondary {
+    border-color: var(--bs-secondary) !important;
+}
+
+/*LINKS SECTION*/
+.link {
+    color: var(--bs-tertiary);
+    font-weight: var(--bs-font-weight-600);
+}
+
+    .link:hover {
+        color: var(--bs-tertiary-dark);
+        font-weight: var(--bs-font-weight-600);
+        text-decoration: 2px underline !important;
+    }

@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NetCoreStudentPortal
+build_property.RootNamespace = NetCoreStudentPortal
+build_property.ProjectDir = D:\gits\netcorestudentportal\NetCoreStudentPortal\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\gits\netcorestudentportal\NetCoreStudentPortal
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Components/StudentPortalMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTdHVkZW50UG9ydGFsTWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Components/StudentPortalSubMenuCompras.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTdHVkZW50UG9ydGFsU3ViTWVudUNvbXByYXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Components/StudentPortalTitle.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTdHVkZW50UG9ydGFsVGl0bGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/Agenda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWdlbmRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/Balance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFsYW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/Compras.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcHJhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/Contacto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/Documentos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jdW1lbnRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/Estudiantes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0dWRpYW50ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/FAQs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRkFRcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/Materias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWF0ZXJpYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/Metodos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWV0b2Rvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/Mi-Cuenta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWktQ3VlbnRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/Reset-Password.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXQtUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/UploadDocument.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBsb2FkRG9jdW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gits/netcorestudentportal/NetCoreStudentPortal/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-p9vqe4ivsf

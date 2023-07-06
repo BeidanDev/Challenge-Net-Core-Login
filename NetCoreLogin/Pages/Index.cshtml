@@ -1,0 +1,101 @@
+﻿@page
+@using System.Web
+@using Microsoft.AspNetCore.Http.Extensions
+@using Microsoft.AspNetCore.Mvc.Rendering;
+@using Microsoft.AspNetCore.Mvc;
+@*@model IndexModel*@
+
+@using NetCoreLogin.Models;
+@model LoginViewModel
+
+<div class="container-fluid d-none d-lg-block bg-light m-0 border-bottom border-top">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb bg-light m-0">
+                        <li class="breadcrumb-item">Index</li>
+                        <li class="breadcrumb-item active">Login</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container d-flex flex-column">
+    <div class="d-flex flex-column flex-md-row justify-content-center flex-md-row-reverse mt-4 mb-4">
+
+@*        <form class="col-12 col-lg-4 col-md-6 bg-white shadow border rounded p-5" method="post" action="" enctype="multipart/form-data">
+            <p>Acá armar el login. Imitar el siguiente: <a href="https://es.snhu.edu/mi-snhu" target="_blank">https://es.snhu.edu/mi-snhu</a></p>
+            <ul>
+                <li>Crear una página "/api/login" que se utilice para validar el login sin refrescar la página.</li>
+                <li>Ésta página "/api/login" no va a hacer una validación contra una base de datos, sino que debe tener la validación hardcodeada.</li>
+                <li>Loguear si el email es "test@test.com" y la clave "123456789". De cualquier otra manera, mostrar login inválido.</li>
+            </ul>
+            <p>
+                Validar que el correo electrónico ingresado sea correcto, del lado del servidor. Es decir, enviar siempre los datos a la api y que devuelva una respuesta:
+                <ul>
+                    <li>"invalid email"</li>
+                    <li>"invalid login"</li>
+                    <li>"ok" --> y hacer el redirect a una página de bienvenida, bien siemple.</li>
+                </ul>
+                No validar nada del lado del cliente, por ejemplo con javascript.
+            </p>
+        </form>*@
+
+        <form id="loginForm" class="col-12 col-lg-4 col-md-6 bg-white shadow border rounded p-5" method="post" action="/api/login" enctype="multipart/form-data">
+            <div id="message"></div>
+
+            <div class="mb-3">
+                <label for="email" class="form-label">Email</label>
+                <input type="email" name="email" id="email" class="form-control" placeholder="Ingrese su correo electrónico" required />
+            </div>
+
+            <div class="mb-3">
+                <label for="password" class="form-label">Password</label>
+                <input type="password" name="password" id="password" class="form-control" placeholder="Ingrese su contraseña" required />
+            </div>
+
+            <button type="submit" class="btn btn-primary w-100 mb-4">Iniciar sesión</button>
+        </form>
+
+        <div class="d-flex flex-column justify-content-end col-md-6 col-lg-8 text-white mi-admin rounded border">
+            <h1 class="display-5 p-5 m-0 align-items-end">Login</h1>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function() {
+      $('#loginForm').submit(function(event) {
+        event.preventDefault();
+
+        var email = $('#email').val();
+        var password = $('#password').val();
+
+        $.ajax({
+          url: '/api/login',
+          type: 'POST',
+          data: { email: email, password: password },
+          success: function(response) {
+            if (response.success) {
+
+                if(response.message == "ok")
+                {
+                    window.location.href = response.redirectUrl;
+                }
+            }
+            else
+            {
+                var resultadoElemento = document.getElementById('message');
+                resultadoElemento.innerHTML = '<div class="alert alert-danger">' + response.message + '</div>';
+            }
+          },
+          error: function() {
+            alert('Error en el inicio de sesión');
+          }
+        });
+      });
+    });
+</script>

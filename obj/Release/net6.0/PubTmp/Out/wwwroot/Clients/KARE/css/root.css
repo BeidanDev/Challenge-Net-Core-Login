@@ -1,0 +1,120 @@
+﻿/*---------------------------*/
+/*                          */
+/*         KARE ROOT       */
+/*                        */
+/*-----------------------*/
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap');
+
+:root {
+    /*VARIABLE COLORS*/
+    --bs-primary: #025ba9 !important;
+    --bs-primary-rgb: 0,75,126 !important;
+    --bs-primary-80: #025ba980 !important;
+    --bs-primary-60: #025ba960 !important;
+    --bs-primary-40: #025ba920 !important;
+    --bs-primary-dark: #003d68 !important;
+    --bs-secondary: #8f1a1e !important;
+    --bs-secondary-80: #8f1a1e80 !important;
+    --bs-secondary-60: #8f1a1e60 !important;
+    --bs-secondary-40: #8f1a1e40 !important;
+    --bs-secondary-dark: #730d11 !important;
+    --bs-white: #ffffff !important;
+    --bs-gray: #e1e1e1 !important;
+    --bs-light: #e0e0e0 !important;
+    --bs-black: #333 !important;
+    --bs-black-rgb: 51,51,51 !important;
+    /*MASTER FONTS*/
+    --bs-body-font-family: 'Rubik', 'sans-serif' !important;
+    --bs-font-sans-serif: 'Rubik', 'sans-serif' !important;
+    /*WEIGHTS*/
+    --bs-font-weight-200: 400;
+    --bs-font-weight-400: 500;
+    --bs-font-weight-600: 600;
+    --bs-font-weight-800: 700;
+    /*FONT SIZES*/
+    --bs-h1-display: 6rem;
+    --bs-h1-display-2: 5rem;
+    --bs-h1-display-3: 4rem;
+    --bs-h1-display-4: 3rem;
+    --bs-h1-display-5: 2rem;
+    --bs-nav-buttons: 1.25rem;
+    /*SHADOWS*/
+    --bs-shadow-primary: 0px 2px 5px var(--bs-primary-45), 0px 4px 7px var(--bs-primary-45), 0px 8px 15px var(--bs-primary-60);
+    --bs-shadow-primary-hover: 0px 4px 7px var(--bs-primary-45), 0px 8px 10px var(--bs-primary-45), 0px 16px 25px var(--bs-primary-60);
+    --bs-shadow-secondary: 0px 2px 5px var(--bs-secondary-45), 0px 4px 10px var(--bs-secondary-45), 0px 8px 25px var(--bs-secondary-60);
+    --bs-text-shadow: 0px 0px 10px var(--bs-black), 0px 0px 4px var(--bs-black);
+    --bs-text-shadow-volume: 1px 1px 0px var(--primary-dark);
+    --bs-large-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
+    --bs-small-shadow: 0 .125rem .25rem rgba(0,0,0,.0755) !important;
+    /*GLOWS*/
+    --bs-glow-primary: 0px 0px 10px var(--bs-primary);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-weight: var(--bs-body-font-family) !important;
+}
+
+/*PERSONALIZA EL BACKGROUND*/
+.mi-admin {
+    background-image: url(../img/studentportalKARE.webp) !important;
+}
+
+/*PERSONALIZA EL BOTON PRIMARIO*/
+.btn-primary {
+    background-color: var(--bs-primary) !important;
+    border: 1px solid var(--bs-primary) !important;
+    box-shadow: var(--bs-shadow-primary);
+    -webkit-box-shadow: var(--bs-shadow-primary);
+    -moz-box-shadow: var(--bs-shadow-primary);
+    color: var(--bs-white);
+}
+
+    .btn-primary:hover {
+        background-color: var(--bs-primary-dark) !important;
+        border: 1px solid var(--bs-primary-dark) !important;
+        box-shadow: var(--bs-shadow-primary-hover);
+        -webkit-box-shadow: var(--bs-shadow-primary-hover);
+        -moz-box-shadow: var(--bs-shadow-primary-hover);
+    }
+
+
+/*CUSTOMIZA COLOR DE FONDO Y TEXTO AL TITLE*/
+.bg-personalized {
+    background-color: var(--bs-primary-40);
+}
+
+.text-personalized {
+    color: var(--bs-primary);
+}
+
+/*CUSTOMIZA BOTON DE COMPRAS*/
+.btn-custom {
+    background: var(--bs-secondary-dark);
+    color: var(--bs-white) !important;
+}
+
+    .btn-custom:hover {
+        background: var(--bs-secondary);
+        color: var(--bs-white) !important;
+    }
+
+/*CUSTOMIZA ACCORDEONS DE ENLACES, FAQS*/
+.shape-accordion {
+}
+
+.accordion-button {
+}
+
+    .accordion-button:hover {
+    }
+
+    .accordion-button:active {
+    }
+
+    .accordion-button:focus {
+    }

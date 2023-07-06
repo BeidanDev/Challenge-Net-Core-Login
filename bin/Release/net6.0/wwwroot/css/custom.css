@@ -1,0 +1,14 @@
+.hide {
+    display: none !important;
+}
+
+.alert-error {
+    color: red;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.5rem;
+}
+
+.fieldError {
+    border-color: red;
+}

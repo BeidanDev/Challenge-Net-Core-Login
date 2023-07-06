@@ -1,0 +1,273 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NetCoreLogin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NetCoreLogin.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\css\\datepicker.min.css",
+      "PackagePath": "staticwebassets\\css\\datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\css\\intlTelInput.min.css",
+      "PackagePath": "staticwebassets\\css\\intlTelInput.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\css\\jquery.fileupload.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fileupload.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\css\\root.css",
+      "PackagePath": "staticwebassets\\css\\root.css"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\css\\root.min.css",
+      "PackagePath": "staticwebassets\\css\\root.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\css\\styles.min.css",
+      "PackagePath": "staticwebassets\\css\\styles.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-100.eot",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-100.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-100.svg",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-100.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-100.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-100.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-100italic.eot",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-100italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-100italic.svg",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-100italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-100italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-100italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-300.eot",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-300.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-300.svg",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-300.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-300.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-300italic.eot",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-300italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-300italic.svg",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-300italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-300italic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-300italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-700.eot",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-700.svg",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-700.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-700.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-700italic.eot",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-700italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-700italic.svg",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-700italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-700italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-700italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-700italic.woff",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-700italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-700italic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-700italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-900italic.eot",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-900italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-900italic.svg",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-900italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-900italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-900italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-italic.eot",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-italic.svg",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-italic.woff",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-italic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\fonts\\lato-v22-latin-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lato-v22-latin-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\js\\datepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\js\\intlTelInput.min.js",
+      "PackagePath": "staticwebassets\\js\\intlTelInput.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\js\\jquery-ui-timepicker-addon.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-timepicker-addon.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\js\\jquery.fileupload.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fileupload.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\js\\jquery.ui.widget.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ui.widget.js"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\js\\jquery.validate.hide.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.hide.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nico\\Desktop\\netcorelogin\\netcorelogin\\NetCoreLogin\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.NetCoreLogin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.NetCoreLogin.props",
+      "PackagePath": "build\\NetCoreLogin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.NetCoreLogin.props",
+      "PackagePath": "buildMultiTargeting\\NetCoreLogin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.NetCoreLogin.props",
+      "PackagePath": "buildTransitive\\NetCoreLogin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
